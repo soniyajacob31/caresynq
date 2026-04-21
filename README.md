@@ -1,5 +1,7 @@
 # CareSynq
 
+**Live:** [https://caresynq-cvmk.onrender.com/](https://caresynq-cvmk.onrender.com/)
+
 CareSynq is a **patient chart documentation review** UI: you upload an image of a visit chart and get a structured checklist-style report framed around **CMS-oriented completeness** (demographics, medical necessity, coding, payer-ready provider details, and related sections).
 
 ## How it works
